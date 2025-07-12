@@ -10,12 +10,10 @@ A planned advanced machine learning system for early glaucoma detection using en
 - Design a clinically viable solution for mass screening programs
 - Validate performance against expert ophthalmologist annotations
 
-## 🔬 Project Architecture
+## 🔬 Project Architecture Diagram
 
-### Planned Data Flow Pipeline
-```
-Retinal Images → Image Enhancement → Feature Extraction → Glaucoma Classification → Diagnosis
-```
+![Project Architecture](Arc.png)
+
 
 ### Proposed System Architecture
 
